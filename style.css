@@ -91,3 +91,21 @@
 .figtree-extra-bold:focus {
     color: var(--yellow-color);
 }
+
+.category {
+    width: 82px;
+    height: 29px;
+    display: flex;
+    flex-direction: row;
+    background: var(--yellow-color);
+    justify-content: center;
+    align-items: center;
+    border-radius: 0.30em;
+}
+
+main {
+    width: 384px;
+    height: 522px;
+    display: grid;
+    grid-template-columns: 1fr;
+}
