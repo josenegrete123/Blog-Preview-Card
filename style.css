@@ -21,18 +21,7 @@
     font-optical-sizing: auto;
     font-weight: 800;
     font-style: normal;  
-    font-size: clamp(0.875rem, 0.875rem + 0vw, 0.875rem);
-    line-height: 150%;
-    letter-spacing: 0px;
-    color: var(--gray-950);
-}
-
-.figtree-medium-14 {
-    font-family: "Figtree", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 500;
-    font-style: normal;  
-    font-size: clamp(0.875rem, 0.875rem + 0vw, 0.875rem);
+    font-size: clamp(0.75rem, 0.5938rem + 0.5vw, 0.875rem);
     line-height: 150%;
     letter-spacing: 0px;
     color: var(--gray-950);
@@ -43,7 +32,18 @@
     font-optical-sizing: auto;
     font-weight: 800;
     font-style: normal;  
-    font-size: clamp(1.5rem, 1.5rem + 0vw, 1.5rem);
+    font-size: clamp(1.25rem, 0.9375rem + 1vw, 1.5rem);
+    line-height: 150%;
+    letter-spacing: 0px;
+    color: var(--gray-950);
+}
+
+.figtree-medium-14 {
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;  
+    font-size: clamp(0.75rem, 0.5938rem + 0.5vw, 0.875rem);
     line-height: 150%;
     letter-spacing: 0px;
     color: var(--gray-950);
@@ -54,7 +54,7 @@
     font-optical-sizing: auto;
     font-weight: 500;
     font-style: normal;  
-    font-size: clamp(1rem, 1rem + 0vw, 1rem);
+    font-size: clamp(0.875rem, 0.7188rem + 0.5vw, 1rem);
     line-height: 150%;
     letter-spacing: 0px;
     color: var(--gray-500);
