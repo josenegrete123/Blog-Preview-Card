@@ -90,8 +90,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [CSS ::before pseudo element](https://stackoverflow.com/questions/6668577/using-before-css-pseudo-element-to-add-image-to-modal) - This helped me add an image to the pseudo element ::before and how to resize it as well.
+- [Scalable text depending on viewport size](https://stackoverflow.com/questions/35978790/bigger-fonts-on-smaller-screens-without-media-queries-or-javascript) - This is an amazing article which helped me find out how to scale the text depending on the viewport sizes.
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
