@@ -1,7 +1,81 @@
+/* Importing Figtree Font */
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+:root {
+    --yellow-color: hsl(47, 88%, 63%);
+    --white-color: hsl(0, 0%, 100%);
+    --gray-950: hsl(0, 0%, 7%);
+    --gray-500: hsl(0, 0%, 42%);
+}
+
 .attribution {
     font-size: 11px; text-align: center;
 }
 
 .attribution a {
     color: hsl(228, 45%, 44%);
+}
+
+.figtree-bold {
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;  
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 0px;
+    color: var(--gray-950);
+}
+
+.figtree-medium-14 {
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;  
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 0px;
+    color: var(--gray-950);
+}
+
+.figtree-extra-bold {
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;  
+    font-size: 24px;
+    line-height: 150%;
+    letter-spacing: 0px;
+    color: var(--gray-950);
+}
+
+.figtree-medium-16 {
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;  
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0px;
+    color: var(--gray-500);
+}
+
+.author {
+    display: flex;
+    flex-direction: row;
+    width: 129px;
+    height: 32px;
+    gap: 12px;
+    align-items: center;
+    justify-content: center;
+}
+
+.author::before {
+    content: "";
+    background: url("./assets/images/image-avatar.webp");
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 32px;
+    height: 32px;
 }
