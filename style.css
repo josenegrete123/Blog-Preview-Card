@@ -108,4 +108,8 @@ main {
     height: 522px;
     display: grid;
     grid-template-columns: 1fr;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }

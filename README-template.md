@@ -92,6 +92,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 - [CSS ::before pseudo element](https://stackoverflow.com/questions/6668577/using-before-css-pseudo-element-to-add-image-to-modal) - This helped me add an image to the pseudo element ::before and how to resize it as well.
 - [Scalable text depending on viewport size](https://stackoverflow.com/questions/35978790/bigger-fonts-on-smaller-screens-without-media-queries-or-javascript) - This is an amazing article which helped me find out how to scale the text depending on the viewport sizes.
+- [Program to scale text](https://clamp.font-size.app/?config=eyJyb290IjoiMTYiLCJtaW5XaWR0aCI6IjUwMHB4IiwibWF4V2lkdGgiOiI5MDBweCIsIm1pbkZvbnRTaXplIjoiMTJweCIsIm1heEZvbnRTaXplIjoiMTRweCJ9) - Used this amazing program to scale the text by giving the minimum and maximum font sizes
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
