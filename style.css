@@ -16,6 +16,7 @@
     color: hsl(228, 45%, 44%);
 }
 
+/* Font styling */
 .figtree-bold {
     font-family: "Figtree", sans-serif;
     font-optical-sizing: auto;
@@ -60,6 +61,7 @@
     color: var(--gray-500);
 }
 
+/* Author image and name */ 
 .author {
     display: flex;
     flex-direction: row;
@@ -78,4 +80,14 @@
     background-repeat: no-repeat;
     width: 32px;
     height: 32px;
+}
+
+/* Add hover and focus to HTML & CSS foundations*/
+.figtree-extra-bold:hover {
+    color: var(--yellow-color);
+    cursor: pointer;
+}
+
+.figtree-extra-bold:focus {
+    color: var(--yellow-color);
 }
