@@ -172,5 +172,5 @@ body {
     width: auto;
     height: auto;
     border-radius: 10px;
-    justify-self: center;
+    align-self: stretch;
 }
