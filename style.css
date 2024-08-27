@@ -103,13 +103,35 @@
     border-radius: 0.30em;
 }
 
+body {
+    background-color: var(--yellow-color);
+}
+
 main {
     width: 384px;
-    height: 522px;
+    height: auto;
     display: grid;
     grid-template-columns: 1fr;
     position: fixed;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    background-color: var(--white-color);
+    border: 1px solid black;
+    border-radius: 20px;
+    justify-content: start;
+    align-items: center;
+    padding: 24px;
+    gap: 24px;
+
+    box-shadow: 8px 8px 0 black;
+}
+
+.blog-image {
+    background: url("./assets/images/illustration-article.svg");
+    width: 336px;
+    height: 200px;
+    border-radius: 0.5em;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
