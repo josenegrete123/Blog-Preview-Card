@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/josenegrete123/Blog-Preview-Card)
+- Solution URL: ( https://www.frontendmentor.io/solutions/blog-preview-card-with-css-Syc5A7wmJm)
 - Live Site URL: (https://josenegrete123.github.io/Blog-Preview-Card/)
 
 ## My process
